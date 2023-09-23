@@ -84,6 +84,7 @@
               ferror = ierror = true;
             }
             break;
+            // 
 
           case 'minlen':
             if (i.val().length < parseInt(exp)) {
